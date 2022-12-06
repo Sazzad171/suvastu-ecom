@@ -1,0 +1,39 @@
+.logo-wrapper {
+    padding: 20px 30px;
+}
+.logo-wrapper img.for-light {
+    max-height: 35px;
+}
+.sidebar-wrapper.close_icon img {
+    width: 40px;
+}
+.page-wrapper.compact-wrapper .page-body-wrapper .page-body {
+    min-height: calc(100vh - 160px);
+}
+.my-gallery .play-icon {
+    top: 43%;
+    left: 43%;
+    color: #0066B3;
+    height: 50px;
+    width: auto;
+}
+.project-details-thumbnail-img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+.project-details-text {
+    font-size: 16px;
+    margin-top: 16px;
+}
+.project-slider-area img,
+.project-slider-hash img {
+    border-radius: 12px;
+}
+.project-description iframe {
+    width: 100%;
+}
+.project-description h6 {
+    margin-bottom: 1rem;
+}
